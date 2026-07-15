@@ -1,14 +1,12 @@
 # 💪 Mission: Strong & Independent
 
-## About Me
+## 👋 About Me
 
 Hi, I'm **Aryan Singh**.
 
-I'm a 3rd-year B.Tech Computer Science student from India.
+I'm a B.Tech Computer Science student from India.
 
-This repository documents my journey from knowing almost nothing about programming to becoming a Software Engineer and eventually an AI Engineer.
-
-I believe in one simple philosophy:
+This repository documents my journey from complete beginner to becoming a **Software Engineer** and eventually an **AI Engineer**.
 
 > **Consistency beats intensity.**
 
@@ -16,55 +14,108 @@ I believe in one simple philosophy:
 
 # 🎯 Mission
 
-Become stronger.
-
-Become disciplined.
-
-Become financially independent.
-
-Become someone my future family can be proud of.
+- Become a skilled Software Engineer
+- Become financially independent
+- Build real-world projects
+- Stay disciplined every single day
+- Never stop learning
 
 ---
 
-# 📅 Day 1 — 14 July 2026
+# 📅 Progress Log
 
-## What I learned
+## ✅ Day 1 — 14 July 2026
 
-- ✅ print()
-- ✅ input()
-- ✅ Variables
-- ✅ Variables store information.
-- ✅ Variables can change values.
-- ✅ Programs execute from top to bottom.
+### 📚 What I Learned
 
----
+- `print()`
+- `input()`
+- Variables
+- Variables store data
+- Programs execute from top to bottom
 
-## Biggest Lesson
+### 💻 Achievement
+
+- Installed Python
+- Installed VS Code
+- Created GitHub Account
+- Wrote my first Python program
+
+### 🧠 Biggest Lesson
 
 > The computer only does exactly what I tell it to do.
 
 ---
 
-## Today's Achievement
+## ✅ Day 2 — 15 July 2026
 
-- ✅ Installed Python
-- ✅ Installed VS Code
-- ✅ Created GitHub
-- ✅ Wrote my first Python program
-- ✅ Understood variables
+### 📚 What I Learned
+
+- Data Types
+  - String
+  - Integer
+  - Float
+  - Boolean
+- `int()`
+- Arithmetic Operators
+- User Input
+- Variables and Calculations
+
+### 💻 Programs Built
+
+- Basic Calculator
+
+### 🧠 Biggest Lesson
+
+> Think first. Then code.
+
+---
+
+## ✅ Day 3 — 16 July 2026
+
+### 📚 What I Learned
+
+- Comparison Operators
+  - `==`
+  - `!=`
+  - `>`
+  - `<`
+  - `>=`
+  - `<=`
+- `if`
+- `else`
+- `elif`
+- Boolean Logic (`True` / `False`)
+
+### 💻 Programs Built
+
+- Voting Eligibility Checker
+- Grade Calculator
+
+### 🧠 Biggest Lessons
+
+- Python checks conditions from top to bottom.
+- Python stops after the first `True` condition.
+- Always think before coding:
+  1. Input
+  2. Output
+  3. Decision
+  4. Code
 
 ---
 
 # 🔥 Current Streak
 
-Day 1 / 201
+**Day 3 / 201**
 
 ---
 
-## 📈 Long-Term Goal
+# 🚀 Long-Term Goal
 
-Become a Software Engineer capable of building real-world applications and earning opportunities through skill, discipline, and consistency.
+Become a Software Engineer capable of building real-world applications and solving meaningful problems.
+
+Eventually transition into **AI Engineering**.
 
 ---
 
-*"One workout. One coding lesson. One step closer."*
+> **One workout. One coding lesson. One step closer.**
